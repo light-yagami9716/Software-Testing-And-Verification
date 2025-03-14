@@ -113,6 +113,9 @@ public class BusBook extends javax.swing.JFrame {
         b.setVisible(true);
     }//GEN-LAST:event_jButton2ActionPerformed
 
+    public void test(){
+        
+    }
     /**
      * @param args the command line arguments
      */
