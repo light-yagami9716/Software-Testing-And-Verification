@@ -354,7 +354,7 @@ public class Booking extends javax.swing.JFrame {
         }
     }                                        
 
-    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+    void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {                                         
         // TODO add your handling code here:
         
         this.setVisible(false);
